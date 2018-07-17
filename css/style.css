@@ -1,1 +1,12 @@
-/* add CSS class and element and selectors here */
+ /*add CSS class and element and selectors here*/
+   @import url('https://fonts.googleapis.com/css?family=Gaegu|Montserrat|Chela+One');
+    body {
+      background-color: lightblue;
+      font-size: 150%;
+    }
+    
+  .myClass {
+      background-color: gray;
+      color: blue; font-size: 200%; font-family: Chela One; border: 5px dotted red;
+    }
+    
